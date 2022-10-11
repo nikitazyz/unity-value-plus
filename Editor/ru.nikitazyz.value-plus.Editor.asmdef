@@ -1,0 +1,8 @@
+{
+  "name": "ru.nikitazyz.value-plus.Editor",
+  "includePlatforms": ["Editor"],
+  "rootNamespace": "ValuePlus",
+  "references": [
+    "GUID:19de23aa30724d6fb9241faf53262e6b"
+  ]
+}

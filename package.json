@@ -1,0 +1,20 @@
+{
+  "name": "ru.nikitazyz.value-plus",
+  "version": "0.1.0",
+  "displayName": "Value+",
+  "description": "Small extensions for types",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Nikita Zyz",
+    "email": "nikita.zyz16@gmail.com"
+  },
+  "type": "library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikitazyz/unity-value-plus.git"
+  }
+}
