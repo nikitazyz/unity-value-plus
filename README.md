@@ -1,6 +1,8 @@
 # Value+
 *v0.1.0 (Experimental)*
 
+![Preview](/Resources/Preview.png)
+
 ## Description
 The library of additional types for editor: numeric ranges and optional values.
 
